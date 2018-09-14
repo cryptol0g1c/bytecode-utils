@@ -1,6 +1,6 @@
 {
   "name": "bytecode-utils",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Tool to compile, process and verify Ethereum Smart Contracts",
   "main": "index.js",
   "scripts": {
