@@ -6,6 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cryptol0g1c/bytecode-utils"
+  },
+  "bugs": {
+    "url": "https://github.com/cryptol0g1c/bytecode-utils/issues"
+  },
   "keywords": [
     "ethereum",
     "smart-contracts",
